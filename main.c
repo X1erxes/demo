@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <windows.h>
-#include <time.h> 
                            //里规格：长39*2=78 （真坐标）(假坐标宽为39)  高39
                            //外规格：长41*2=82 （真坐标）(假坐标宽为41)  高41
 #define UP    1
